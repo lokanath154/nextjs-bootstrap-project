@@ -1,6 +1,7 @@
 {
     "version": "0.2.0",
     "configurations": [
+        
         {
             "type": "chrome",                        // Specifies using Chrome browser for debugging
             "request": "launch",                     // Launches a new instance of Chrome
